@@ -16,24 +16,15 @@ Definir las clases necesarias para representar los distintos ciclos ofrecidos pa
 ## b. Los métodos
 Es necesario conocer la tarifa de alquiler de todos los ciclos.
 
-bici
+Bici ------- tarifa horaria de alquiler
 
-tarifa horaria de alquiler
+bicicleta -------- 4,90 €
 
-bicicleta
+segway ---------18,90 €
 
-4,90 €
-
-segway
-
-18,90 €
-
-giroscopios
-
-29,90 €
+giroscopios ----- 29,90 €
 
 Agregar a las clases anteriores los métodos abstractos y concretos, necesarios para ello. También agregue un constructor y un método que será útil para mostrar estas bicis en cada uno de ellos.
-
 ## c. Las normas
 Todos los ciclos que se ofrecen en alquiler se almacenan en una tabla.
 
