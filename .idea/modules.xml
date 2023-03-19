@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bicicleta/Bicicleta.iml" filepath="$PROJECT_DIR$/Bicicleta/Bicicleta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tarea9_Tecnicas_Programacion.iml" filepath="$PROJECT_DIR$/.idea/Tarea9_Tecnicas_Programacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vmedia_Plurilingue/Vmedia_Plurilingue.iml" filepath="$PROJECT_DIR$/Vmedia_Plurilingue/Vmedia_Plurilingue.iml" />
+    </modules>
+  </component>
+</project>
