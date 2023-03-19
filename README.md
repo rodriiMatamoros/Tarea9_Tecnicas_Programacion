@@ -1,9 +1,8 @@
 # Tarea9_Tecnicas_Programacion
 Tarea 9 Curso_22_23_Tecnicas
 
-Mi repositorio es: 
+Mi repositorio es: https://github.com/rodriiMatamoros/Tarea9_Tecnicas_Programacion.git
 
-Ejercicios
 # 1. El alquiler de bicis
 El objetivo es crear un programa que permita a una empresa de alquiler de bicicletas, mostrar los modelos que se ofrecen en alquiler y los precios.
 
